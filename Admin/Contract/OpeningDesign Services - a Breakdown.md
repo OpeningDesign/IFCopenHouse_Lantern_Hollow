@@ -3,8 +3,8 @@
 
 ####Project: Lantern Hollow - Madison, WI
 ---
-*(AS) - Anticipated additional services not covered in fee*
-*(PS) - Unlikely, but potential additional services*
+* *(AS) - Anticipated additional services not covered in fee*
+* *(PS) - Unlikely, but potential additional services*
 
 ---
 * 1 - Programming: Defining the Project *(not to exceed 5 % of total fee)*
