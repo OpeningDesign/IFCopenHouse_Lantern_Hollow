@@ -1,6 +1,6 @@
 
-<img style="float: right" src="https://raw.githubusercontent.com/OpeningDesign/OpeningDesign.github.io/master/assets/images/icon.png" />
-<div style="clear:right"></div>
+<img style="float:right" src="https://raw.githubusercontent.com/OpeningDesign/OpeningDesign.github.io/master/assets/images/icon.png" />
+<div style="clear:right"></div>/div>
 
 ### OpeningDesign Services - a Breakdown
 
