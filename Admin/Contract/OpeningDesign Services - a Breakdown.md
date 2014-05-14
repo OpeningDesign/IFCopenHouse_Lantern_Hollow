@@ -30,6 +30,7 @@
         * Site Plan
         * Elevations
         * Sections
+   * (PS): Uber-realistic renderings
 
 * 3 - Design Development: Dialing into, and refining a design *(not to exceed 15 % of total fee)*
     * After sharing (3) design concepts, we will dial into one design by refining one design and/or combining desired aspects of the other design options.
