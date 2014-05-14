@@ -1,4 +1,7 @@
 
+<img style="float: right" src="https://raw.githubusercontent.com/OpeningDesign/OpeningDesign.github.io/master/assets/images/icon.png" />
+<div style="clear:right"></div>
+
 ### OpeningDesign Services - a Breakdown
 
 ####Project: Lantern Hollow - Madison, WI
