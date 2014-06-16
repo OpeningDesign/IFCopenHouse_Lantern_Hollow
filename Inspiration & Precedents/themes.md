@@ -1,6 +1,6 @@
-* Tags: Rustic, Modern, Industrial,Tuscany, subtle-country
+* Tags: Rustic, Modern, Industrial,Tuscany, subtle-Country
 * outdoor spaces - blend inside w/ outside
-  * insight the urge for exploration.
+  * incite the urge for exploration.
 * outdoor fireplace
 * sunrooms
 * greenhouse type kitchens
