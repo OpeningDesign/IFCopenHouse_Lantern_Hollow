@@ -1,0 +1,110 @@
+# IFC Class Name to Revit Category/Sub-Category Table
+# Maps IFC Class to Revit Category/Sub-Category
+# You may edit using File -> Import/Export Settings -> IFC Options... .
+# -----------------------------------------------------
+IfcActuatorType	Generic Models	
+IfcAirTerminalBoxType	Generic Models	
+IfcAirTerminalType	Generic Models	
+IfcAirToAirHeatRecoveryType	Generic Models	
+IfcAlarmType	Generic Models	
+IfcAnnotation	Generic Annotations	
+IfcBeam	Horizontal Bracing	
+IfcBoilerType	Generic Models	
+IfcBuildingElementPart	Generic Models	
+IfcBuildingElementProxy	Generic Models	
+IfcCableCarrierFittingType	Generic Models	
+IfcCableCarrierSegmentType	Generic Models	
+IfcCableSegmentType	Generic Models	
+IfcChillerType	Generic Models	
+IfcCoilType	Generic Models	
+IfcColumn	Columns	
+IfcCompressorType	Mechanical Equipment	IfcCompressor
+IfcCondenserType	Generic Models	
+IfcControllerType	Generic Models	
+IfcCooledBeamType	Generic Models	
+IfcCoolingTowerType	Generic Models	
+IfcCovering	Ceilings	
+IfcCurtainWall	Ruled Curtain System	
+IfcDamperType	Generic Models	
+IfcDiscreteAccessory	Generic Models	
+IfcDistributionChamberElement	Generic Models	
+IfcDistributionChamberElementType	Generic Models	
+IfcDistributionControlElement	Generic Models	
+IfcDistributionElement	Generic Models	
+IfcDistributionFlowElement	Generic Models	
+IfcDoor	Doors	
+IfcDuctFittingType	Generic Models	
+IfcDuctSegmentType	Generic Models	
+IfcDuctSilencerType	Generic Models	
+IfcElectricalEquipment	Generic Models	
+IfcElectricApplianceType	Generic Models	
+IfcElectricDistributionPoint	Generic Models	
+IfcElectricFlowStorageDeviceType	Generic Models	
+IfcElectricGeneratorType	Generic Models	
+IfcElectricHeaterType	Generic Models	
+IfcElectricMotorType	Generic Models	
+IfcElectricTimeControlType	Generic Models	
+IfcElementAssembly	Generic Models	
+IfcEnergyConversionDevice	Generic Models	
+IfcEquipmentElement	Generic Models	
+IfcEvaporativeCoolerType	Generic Models	
+IfcEvaporatorType	Generic Models	
+IfcFanType	Generic Models	
+IfcFastener	Generic Models	
+IfcFilterType	Generic Models	
+IfcFireSuppressionTerminalType	Generic Models	
+IfcFlowController	Generic Models	
+IfcFlowFitting	Generic Models	
+IfcFlowInstrumentType	Generic Models	
+IfcFlowMeterType	Generic Models	
+IfcFlowMovingDevice	Generic Models	
+IfcFlowSegment	Generic Models	
+IfcFlowStorageDevice	Generic Models	
+IfcFlowTerminal	Generic Models	
+IfcFlowTreatmentDevice	Generic Models	
+IfcFooting	Generic Models	
+IfcFurnishingElement	Furniture	
+IfcFurnitureType	Generic Models	
+IfcGasTerminalType	Generic Models	
+IfcHeatExchangerType	Generic Models	
+IfcHumidifierType	Generic Models	
+IfcJunctionBoxType	Generic Models	
+IfcLampType	Lighting Devices	
+IfcLightFixtureType	Lighting Fixtures	
+IfcMechanicalFastener	Generic Models	
+IfcMember	Generic Models	
+IfcMotorConnectionType	Generic Models	
+IfcOutletType	Generic Models	
+IfcPile	Structural Foundations	
+IfcPipeFittingType	Generic Models	
+IfcPipeSegmentType	Generic Models	
+IfcPlate	Generic Models	
+IfcProtectiveDeviceType	Generic Models	
+IfcPumpType	Generic Models	
+IfcRailing	Railings	
+IfcRamp	Ramps	
+IfcRampFlight	Ramps	
+IfcReinforcingBar	Structural Rebar	
+IfcReinforcingMesh	Generic Models	
+IfcRoof	Roofs	
+IfcSanitaryTerminalType	Generic Models	
+IfcSensorType	Generic Models	
+IfcSite	Site	
+IfcSpaceHeaterType	Generic Models	
+IfcStackTerminalType	Generic Models	
+IfcStair	Stairs	
+IfcStairFlight	Stairs	
+IfcSwitchingDeviceType	Generic Models	
+IfcSystemFurnitureElementType	Generic Models	
+IfcTankType	Generic Models	
+IfcTendon	Generic Models	
+IfcTendonAnchor	Generic Models	
+IfcTransformerType	Generic Models	
+IfcTransportElement	Generic Models	
+IfcTubeBundleType	Generic Models	
+IfcUnitaryEquipmentType	Generic Models	
+IfcValveType	Generic Models	
+IfcWall	Walls	
+IfcWallStandardCase	Walls	
+IfcWasteTerminalType	Generic Models	
+IfcWindow	Windows	

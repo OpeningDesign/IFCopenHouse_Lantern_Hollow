@@ -1,0 +1,423 @@
+# Revit Export Layers
+# Maps Categories and Subcategories to layer names and color numbers
+# Category <tab> Subcategory <tab> Layer name <tab> Color number <tab>
+# Cut layer name <tab> Cut color number
+# Do not remove the colon (:) after certain category names.
+# -----------------------------------------------------
+Air Terminals		IfcAirTerminal			
+Analytical Beam Tags		Not Exported			
+Analytical Beams		Not Exported			
+Analytical Brace Tags		Not Exported			
+Analytical Braces		Not Exported			
+Analytical Column Tags		Not Exported			
+Analytical Columns		Not Exported			
+Analytical Floor Tags		Not Exported			
+Analytical Floors		Not Exported			
+Analytical Foundation Slabs		Not Exported			
+Analytical Isolated Foundation Tags		Not Exported			
+Analytical Isolated Foundations		Not Exported			
+Analytical Slab Foundation Tags		Not Exported			
+Analytical Wall Foundation Tags		Not Exported			
+Analytical Wall Foundations		Not Exported			
+Analytical Wall Tags		Not Exported			
+Analytical Walls		Not Exported			
+Area Polylines		Not Exported			
+Area Tags		Not Exported			
+Areas		IfcSpace			
+Areas	Color Fill				
+Areas	Interior Fill				
+Areas	Reference				
+Assemblies		IfcElementAssembly			
+Cable Tray Fittings		IFCCableCarrierFittingType			
+Cable Tray Fittings	Center line				
+Cable Trays		IFCCableCarrierSegment			
+Cable Trays	Center line				
+Cable Trays	Drop				
+Cable Trays	Rise				
+Callouts		Not Exported			
+Casework		IfcFurniture			
+Casework	Hidden Lines				
+Casework Tags		Not Exported			
+Ceiling Tags		Not Exported			
+Ceilings		IfcCovering			
+Ceilings	Common Edges				
+Ceilings	Cut Pattern				
+Ceilings	Finish 1 [4]				
+Ceilings	Finish 2 [5]				
+Ceilings	Hidden Lines				
+Ceilings	Membrane Layer				
+Ceilings	Structure [1]				
+Ceilings	Substrate [2]				
+Ceilings	Surface Pattern	IfcCovering			
+Ceilings	Thermal/Air Layer [3]				
+Color Fill Legends		Not Exported			
+Columns		IfcColumn			
+Columns	Hidden Lines				
+Communication Devices		IfcBuildingElementProxy			
+Conduit Fittings		IFCCableCarrierFitting			
+Conduit Fittings	Center line				
+Conduits		IFCCableCarrierSegment			
+Conduits	Center line				
+Conduits	Drop				
+Conduits	Rise				
+Constraints		Not Exported			
+Contour Labels		Not Exported			
+Curtain Panel Tags		Not Exported			
+Curtain Panels		IfcCurtainWall			
+Curtain Panels	Glass				
+Curtain Panels	Hidden Lines				
+Curtain Systems		IfcCurtainWall			
+Curtain Systems	Curtain System Grids				
+Curtain Systems	Hidden Lines				
+Curtain Wall Mullions		IfcCurtainWall			
+Curtain Wall Mullions	Hidden Lines				
+Data Devices		IfcBuildingElementProxy			
+Demolished		Not Exported			
+Detail Items		IfcAnnotation			
+Detail Items	Heavy Lines				
+Detail Items	Hidden Lines				
+Detail Items	Light Lines				
+Detail Items	Medium Lines				
+Dimensions		Not Exported			
+Dimensions	Automatic Sketch Dimensions	Not Exported			
+Door Tags		Not Exported			
+Doors		IfcDoor			
+Doors	Elevation Swing				
+Doors	Frame/Mullion	IfcDoor			
+Doors	Glass	IfcDoor			
+Doors	Hidden Lines				
+Doors	Opening	IfcDoor			
+Doors	Panel	IfcDoor			
+Doors	Plan Swing				
+Duct Accessories		IfcBuildingElementProxy			
+Duct Fittings		IfcDuctFitting			
+Duct Fittings	Center line				
+Duct Insulations		IfcCovering			
+Duct Linings		IfcCovering			
+Duct Placeholders		IfcDuctSegment			
+Ducts		IfcDuctSegment			
+Ducts	Center line				
+Ducts	Drop				
+Ducts	Rise				
+Electrical Equipment		IfcBuildingElementProxy			
+Electrical Equipment	Hidden Lines				
+Electrical Equipment Tags		Not Exported			
+Electrical Fixture Tags		Not Exported			
+Electrical Fixtures		IfcBuildingElementProxy			
+Electrical Fixtures	Hidden Lines				
+Elevations		Not Exported			
+Entourage		IfcBuildingElementProxy			
+Entourage	Hidden Lines				
+Existing		Not Exported			
+Filled region		IfcAnnotation			
+Fire Alarm Devices		IfcBuildingElementProxy			
+Flex Ducts		IfcDuctSegment			
+Flex Ducts	Center line				
+Flex Ducts	Pattern				
+Flex Pipes		IfcPipeSegment			
+Flex Pipes	Center Line				
+Flex Pipes	Pattern				
+Floors		IfcSlab			
+Floors	Common Edges				
+Floors	Cut Pattern				
+Floors	Finish 1 [4]				
+Floors	Finish 2 [5]				
+Floors	Hidden Lines				
+Floors	Interior Edges				
+Floors	Membrane Layer				
+Floors	Slab Edges	IfcBuildingElementProxy			
+Floors	Structure [1]				
+Floors	Substrate [2]				
+Floors	Surface Pattern	IfcSlab			
+Floors	Thermal/Air Layer [3]				
+Furniture		IfcFurniture			
+Furniture	Hidden Lines				
+Furniture Systems		IfcSystemFurnitureElement			
+Furniture Systems	Hidden Lines				
+Generic Annotations		Not Exported			
+Generic Model Tags		Not Exported			
+Generic Models		IfcBuildingElementProxy			
+Generic Models	Hidden Lines				
+Generic Models	IfcOpeningElements	IfcOpeningElement			
+Grids		Not Exported			
+Guide Grid		Not Exported			
+HVAC Zones		Not Exported			
+HVAC Zones	Boundary	Not Exported			
+HVAC Zones	Color Fill	Not Exported			
+HVAC Zones	Interior Fill	Not Exported			
+HVAC Zones	Reference Lines	Not Exported			
+Imports in Families		IfcBuildingElementProxy			
+Levels		IfcBuildingStorey			
+Lighting Devices		IfcBuildingElementProxy			
+Lighting Fixture Tags		Not Exported			
+Lighting Fixtures		IfcLightFixtureType			
+Lighting Fixtures	Hidden Lines				
+Lighting Fixtures	Light Source	Not Exported			
+Lines		IfcAnnotation			
+Lines	<Area Boundary>	IfcAnnotation			
+Lines	<Beyond>	IfcAnnotation			
+Lines	<Centerline>	Not Exported			
+Lines	<Demolished>	IfcAnnotation			
+Lines	<Fabric Envelope>				
+Lines	<Fabric Sheets>				
+Lines	<Hidden>	IfcAnnotation			
+Lines	<Overhead>	IfcAnnotation			
+Lines	<Revision Cloud>	IfcAnnotation			
+Lines	<Room Separation>	IfcAnnotation			
+Lines	<Sketch>	Not Exported			
+Lines	<Space Separation>				
+Lines	<Stair/Ramp Sketch: Boundary>	Not Exported			
+Lines	<Stair/Ramp Sketch: Landing Center>	Not Exported			
+Lines	<Stair/Ramp Sketch: Riser>	Not Exported			
+Lines	<Stair/Ramp Sketch: Run>	Not Exported			
+Lines	Axis of Rotation	Not Exported			
+Lines	Hidden Lines				
+Lines	Insulation Batting Lines	IfcAnnotation			
+Lines	Lines	IfcAnnotation			
+Lines	Medium Lines	IfcAnnotation			
+Lines	Thin Lines	IfcAnnotation			
+Lines	Wide Lines	IfcAnnotation			
+Mass		Not Exported			
+Mass	Form	Not Exported			
+Mass	Gridlines	Not Exported			
+Mass	Hidden Lines	Not Exported			
+Mass	Mass Exterior Wall	Not Exported			
+Mass	Mass Floor	Not Exported			
+Mass	Mass Glazing	Not Exported			
+Mass	Mass Interior Wall	Not Exported			
+Mass	Mass Opening	Not Exported			
+Mass	Mass Roof	Not Exported			
+Mass	Mass Shade	Not Exported			
+Mass	Mass Skylight	Not Exported			
+Mass	Mass Zone	Not Exported			
+Mass	Nodes	Not Exported			
+Mass	Pattern Fill	Not Exported			
+Mass	Pattern Lines	Not Exported			
+Massing		IfcBuildingElementProxy			
+Mechanical Equipment		IfcBuildingElementProxy			
+Mechanical Equipment	Hidden Lines				
+Mechanical Equipment	IfcCompressor	IfcCompressor			
+Mechanical Equipment Tags		Not Exported			
+Multi-Category Tags		Not Exported			
+New		Not Exported			
+Nurse Call Devices		IfcSwitchingDeviceType			
+Panel Schedule Graphics		Not Exported			
+Parking		IfcBuildingElementProxy			
+Parking	Hidden Lines				
+Parking	Parking Layout				
+Parking	Reference Line				
+Parking	Stripe				
+Parking Tags		Not Exported			
+Parts		IfcBuildingElementPart			
+Parts	Hidden Lines				
+Pipe Accessories		IfcValveType			
+Pipe Fittings		IfcPipeFitting			
+Pipe Fittings	Center line				
+Pipe Insulations		IfcCovering			
+Pipe Placeholders		IfcPipeSegment			
+Pipes		IfcPipeSegment			
+Pipes	Center Line				
+Pipes	Drop				
+Pipes	Rise				
+Plan Region		Not Exported			
+Planting		IfcBuildingElementProxy			
+Planting	Hidden Lines				
+Planting Tags		Not Exported			
+Plumbing Fixture Tags		Not Exported			
+Plumbing Fixtures		IfcFlowTerminal			
+Plumbing Fixtures	Hidden Lines				
+Point Clouds		Not Exported			
+Property Line Segment Tags		Not Exported			
+Property Tags		Not Exported			
+Railing Tags		Not Exported			
+Railings		IfcRailing			
+Railings	<Above> Handrails				
+Railings	<Above> Railings Cut Line	IfcRailing			
+Railings	<Above> Top Rails				
+Railings	Balusters	IfcRailing			
+Railings	Handrails				
+Railings	Hidden Lines				
+Railings	Rails	IfcRailing			
+Railings	Supports				
+Railings	Terminations				
+Railings	Top Rails				
+Ramps		IfcRamp			
+Ramps	Down Arrow	IfcRamp			
+Ramps	DOWN text	IfcRamp			
+Ramps	Hidden Lines				
+Ramps	Incomplete ramps	IfcRamp			
+Ramps	Ramps Beyond Cut Line	IfcRamp			
+Ramps	Stringers	IfcRamp			
+Ramps	Stringers Beyond Cut Line	IfcRamp			
+Ramps	Up Arrow	IfcRamp			
+Ramps	UP text	IfcRamp			
+Raster Images		Not Exported			
+Reference Planes		Not Exported			
+Roads		IfcBuildingElementProxy			
+Roads	Hidden Lines				
+Roof Tags		Not Exported			
+Roofs		IfcRoof			
+Roofs	Common Edges				
+Roofs	Curtain Roof Grids	IfcRoof			
+Roofs	Cut Pattern				
+Roofs	Fascias	IfcRoof			
+Roofs	Finish 1 [4]				
+Roofs	Finish 2 [5]				
+Roofs	Gutters	IfcRoof			
+Roofs	Hidden Lines				
+Roofs	Interior Edges				
+Roofs	Membrane Layer				
+Roofs	Roof Soffits	IfcRoof			
+Roofs	Structure [1]				
+Roofs	Substrate [2]				
+Roofs	Surface Pattern	IfcRoof			
+Roofs	Thermal/Air Layer [3]				
+Room Polylines		Not Exported			
+Room Tags		Not Exported			
+Rooms		IfcSpace			
+Rooms	Color Fill				
+Rooms	Interior Fill				
+Rooms	Reference				
+Ruled Curtain System		IfcCurtainWall			
+Schedule Graphics		Not Exported			
+Scope Boxes		Not Exported			
+Sections		Not Exported			
+Security Devices		IfcBuildingElementProxy			
+Shaft Openings		Not Exported			
+Shaft Openings	Hidden Lines	Not Exported			
+Site		IfcSite			
+Site	Hidden Lines				
+Site	Logistics				
+Site	Pads	IfcSlab			
+Site	Project Base Point	Not Exported			
+Site	Property	IfcBuildingElementProxy			
+Site	Property Lines				
+Site	Survey Point	Not Exported			
+Site Tags		Not Exported			
+Spaces		IfcSpace			
+Spaces	Color Fill				
+Spaces	Interior				
+Spaces	Reference				
+Specialty Equipment		IfcBuildingElementProxy			
+Specialty Equipment	Hidden Lines				
+Specialty Equipment Tags		Not Exported			
+Spot Coordinates		Not Exported			
+Spot Elevations		Not Exported			
+Spot Slopes		Not Exported			
+Sprinklers		IfcFireSuppressionTerminalType			
+Stair Landing Tags		Not Exported			
+Stair Paths		Not Exported			
+Stair Paths	<Above> Up Arrows	Not Exported			
+Stair Paths	Down Arrows	Not Exported			
+Stair Paths	DOWN Text	Not Exported			
+Stair Paths	Up Arrows	Not Exported			
+Stair Paths	UP Text	Not Exported			
+Stair Run Tags		Not Exported			
+Stair Support Tags		Not Exported			
+Stair Tags		Not Exported			
+Stair Tread/Riser Numbers		Not Exported			
+Stairs		IfcStair			
+Stairs	<Above> Cut Marks	IfcStair			
+Stairs	<Above> Nosing Lines	IfcStair			
+Stairs	<Above> Outlines	IfcStair			
+Stairs	<Above> Riser Lines	IfcStair			
+Stairs	<Above> Supports	IfcStair			
+Stairs	Cut Marks	IfcStair			
+Stairs	Hidden Lines				
+Stairs	Incomplete Stairs	IfcStair			
+Stairs	Nosing Lines	IfcStair			
+Stairs	Outlines	IfcStair			
+Stairs	Riser Lines	IfcStair			
+Stairs	Supports	IfcStair			
+Stairs	Treads/Risers	IfcStair			
+Structural Area Reinforcement		IfcReinforcingBar			
+Structural Area Reinforcement	Boundary				
+Structural Beam Systems		Not Exported			
+Structural Column Tags		Not Exported			
+Structural Columns		IfcColumn			
+Structural Columns	Hidden Faces				
+Structural Columns	Hidden Lines				
+Structural Columns	Rigid Links				
+Structural Columns	Stick Symbols				
+Structural Connections		Not Exported			
+Structural Fabric Areas		Not Exported			
+Structural Fabric Areas	Boundary	Not Exported			
+Structural Fabric Reinforcement		Not Exported			
+Structural Fabric Reinforcement	Boundary	Not Exported			
+Structural Fabric Reinforcement	Fabric Wire	Not Exported			
+Structural Foundation Tags		Not Exported			
+Structural Foundations		IfcFooting			
+Structural Foundations	Hidden Lines				
+Structural Framing		IfcBuildingElementProxy			
+Structural Framing	Chord				
+Structural Framing	Girder				
+Structural Framing	Hidden Faces				
+Structural Framing	Hidden Lines				
+Structural Framing	Horizontal Bracing				
+Structural Framing	Joist				
+Structural Framing	Kicker Bracing				
+Structural Framing	Other				
+Structural Framing	Purlin				
+Structural Framing	Rigid Links				
+Structural Framing	Stick Symbols				
+Structural Framing	Vertical Bracing				
+Structural Framing	Web				
+Structural Framing Tags		Not Exported			
+Structural Path Reinforcement		IfcReinforcingBar			
+Structural Path Reinforcement	Boundary				
+Structural Rebar		IfcReinforcingMesh			
+Structural Stiffener Tags		Not Exported			
+Structural Stiffeners		Not Exported			
+Structural Truss Tags		Not Exported			
+Structural Trusses		Not Exported			
+Structural Trusses	Stick Symbols	Not Exported			
+Telephone Devices		IfcBuildingElementProxy			
+Temporary		Not Exported			
+Text Notes		IfcAnnotation			
+Title Blocks		Not Exported			
+Title Blocks	Medium Lines	Not Exported			
+Title Blocks	Thin Lines	Not Exported			
+Title Blocks	Wide Lines	Not Exported			
+Topography		IfcBuildingElementProxy			
+Topography	Boundary Point	IfcBuildingElementProxy			
+Topography	Hidden Lines				
+Topography	Interior Point	IfcBuildingElementProxy			
+Topography	Primary Contours	IfcBuildingElementProxy			
+Topography	Secondary Contours	IfcBuildingElementProxy			
+Topography	Triangulation Edges	IfcBuildingElementProxy			
+View Titles		Not Exported			
+Wall Tags		Not Exported			
+Walls		IfcWall			
+Walls	Common Edges				
+Walls	Curtain Wall Grids	IfcWall			
+Walls	Cut Pattern				
+Walls	Finish 1 [4]				
+Walls	Finish 2 [5]				
+Walls	Hidden Lines				
+Walls	Membrane Layer				
+Walls	Reveals	IfcOpeningElement			
+Walls	Stacked Walls	IfcWall			
+Walls	Structure [1]				
+Walls	Substrate [2]				
+Walls	Surface Pattern	IfcWall			
+Walls	Thermal/Air Layer [3]				
+Walls	Wall Sweep - Brick Soldier Course				
+Walls	Wall Sweeps	IfcBuildingElementProxy			
+Walls/Interior:1		IfcWall			
+Walls/Exterior:2		IfcWall			
+Walls/Foundation:3		IfcWall			
+Walls/Retaining:4		IfcWall			
+Window Tags		Not Exported			
+Windows		IfcWindow			
+Windows	Elevation Swing				
+Windows	Frame/Mullion	IfcWindow			
+Windows	Glass	IfcWindow			
+Windows	Hidden Lines				
+Windows	Opening	IfcWindow			
+Windows	Plan Swing				
+Windows	Sill/Head	IfcWindow			
+Windows	Trim				
+Windows	Trim Projection				
+Wires		Not Exported			
+Wires	Home Run Arrows	Not Exported			
+Wires	Wire Tick Marks	Not Exported			
