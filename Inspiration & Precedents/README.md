@@ -23,6 +23,15 @@ From Owner 7/15/2014...
 * accent built in's 
 * basement kitchenette/bar area
 
+From other Owner 7/24/2014...
+* Upstairs bathroom
+* Some basement for interim living/sleeping, new door outside, possibly another bedroom?
+* New entry, kitchen area, deck and east views, upstairs laundry
+* Living room, foyer
+* Master bedroom and remainder of sleeping area upstairs
+* Depending on lot 3 and other home additions – additional storage for equipment
+* Can we do anything to get a 3rd car garage??
+
 ###Random Notes...
 * Tags: Rustic, Modern, Industrial,Tuscany, subtle-Country
 * outdoor spaces - blend inside w/ outside
