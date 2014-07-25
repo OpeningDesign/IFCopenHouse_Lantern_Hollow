@@ -5,11 +5,10 @@
 * List below ordered in perceived priority to be addressed.  Please modify and reorder as you see fit. 
 
 <u>Legend</u>
-SYF: System Family
-LOF: Loadable Family
-IPF: In-Place Family
-http://docs.autodesk.com/REVIT/2010/ENU/Revit%20Architecture%202010%20Users%20Guide/RAC/index.html?url=WS1a9193826455f5ff6abe274011cffbaa2b2-5c7b.htm,topicNumber=d0e32102
-NT: No translation
+* SYF: [System Family](http://docs.autodesk.com/REVIT/2010/ENU/Revit%20Architecture%202010%20Users%20Guide/RAC/index.html?url=WS1a9193826455f5ff6abe274011cffbaa2b2-5c7b.htm,topicNumber=d0e32102)
+* LOF: [Loadable Family](http://docs.autodesk.com/REVIT/2010/ENU/Revit%20Architecture%202010%20Users%20Guide/RAC/index.html?url=WS1a9193826455f5ff6abe274011cffbaa2b2-5c7b.htm,topicNumber=d0e32102)
+* IPF: [In-Place Family](http://docs.autodesk.com/REVIT/2010/ENU/Revit%20Architecture%202010%20Users%20Guide/RAC/index.html?url=WS1a9193826455f5ff6abe274011cffbaa2b2-5c7b.htm,topicNumber=d0e32102)
+* NT: No translation
 
 
 
