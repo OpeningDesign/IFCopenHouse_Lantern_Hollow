@@ -20,11 +20,11 @@
 |-|-|Door (LOF)|Door (LOF)|Retains one-to-many relationship, that is, family definition to instances is retained|
 |Window (LOF)|-?-|Import Symbol|-|Uneditable in Revit|
 |-|-|Window (LOF)|Window (LOF)|Retains one-to-many relationship, that is, family definition to instances is retained|
-|Floor|-|IPF|-|Is Editable|
+|Floor|-?-|IPF|-|Is Editable|
 |-|-|Floor|Floor|-|
 |Roof|-?-|Import Symbol|-|Uneditable in Revit|
 |-|-|Roof|IPF|Is editable|
-|Ceiling (SYF)|-|Import Symbol|-|Uneditable in Revit|
+|Ceiling (SYF)|-?-|Import Symbol|-|Uneditable in Revit|
 |-|-|Ceiling (SYF)|Import Symbol|Uneditable in Revit|
 |Model Lines|NT|-|-|-|
 |-|-|Model Lines|Model Lines|-|
