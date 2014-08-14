@@ -46,7 +46,7 @@ We are currently in Schematic Design...
 
 All of OpeningDesign's projects are conducted out in the open.  That is, during the development of any one project, all team communication and content is hosted [publicly](https://github.com/OpeningDesign) and is <a href="#license">open source</a>.
 
-Since we believe that [innovation happens elsewhere](https://www.google.com/search?sourceid=chrome-psyapi2&rlz=1C1CHFX_enUS591US591&ion=1&espv=&ie=UTF-8&q=innovation%20happens%20elsewhere) we would like to lower, as much as we can, the barrier for others to collaborate and contribute.
+Since we believe that [innovation happens elsewhere](https://www.google.com/search?sourceid=chrome-psyapi2&rlz=1C1CHFX_enUS591US591&ion=1&espv=&ie=UTF-8&q=innovation%20happens%20elsewhere) we would like to lower, as much as possible, the barrier for others to collaborate and contribute.
 
 
  
