@@ -6,7 +6,7 @@ A site/project specific evolution of the [IFCopenHouse](http://blog.ifcopenshell
 ============
 We are always looking to collaborate with a select team of individuals who are also excited about the benefits of working  <a href="#in-the-open">in the open</a> and pushing the bounds of existing and new IFC workflows.
 
-One of our mantra's is, "Specialize, Specialize, Specialize!".  Over the years we would like to build a trusted network of highly specialized collaborators agile enough to tackle the most obscure problems.
+One of our mantras is, "Specialize, Specialize, Specialize!".  Over the years we would like to build a trusted network of highly specialized collaborators agile enough to tackle the most obscure problems.
 
 * Architectural Technologist
 * Civil Engineer
