@@ -36,10 +36,12 @@ Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 ####Current Project Stage...
 
 We are currently in Schematic Design...
+![](https://raw.githubusercontent.com/OpeningDesign/IFCopenHouse_Lantern_Hollow/6133e68a384c4e42b9a49584581ea324cdca8f09/Out/20141028%20-%20renderings/Renderings/IFCopenHouse_Lantern_Hollow.rvt_2014-Oct-28_08-49-42AM-000_Looking_NorthWest.png)
 
-![](https://raw.githubusercontent.com/OpeningDesign/IFCopenHouse_Lantern_Hollow/5e04d0338220e906ccc4715e8c363a8fd38db2c8/Out/20140812-%20schematic%20design%20meeting/Scheme%20-%20Sunroom%20North%20Page%20005.png)
+![](https://raw.githubusercontent.com/OpeningDesign/IFCopenHouse_Lantern_Hollow/6133e68a384c4e42b9a49584581ea324cdca8f09/Out/20141028%20-%20renderings/Renderings/IFCopenHouse_Lantern_Hollow.rvt_2014-Oct-28_08-49-42AM-000_From_Courtyard.png)
 
-![](https://raw.githubusercontent.com/OpeningDesign/IFCopenHouse_Lantern_Hollow/5e04d0338220e906ccc4715e8c363a8fd38db2c8/Out/20140812-%20schematic%20design%20meeting/Scheme%20-%20Sunroom%20East%20Page%20007.png)
+![](https://raw.githubusercontent.com/OpeningDesign/IFCopenHouse_Lantern_Hollow/6133e68a384c4e42b9a49584581ea324cdca8f09/Out/20141028%20-%20renderings/Renderings/IFCopenHouse_Lantern_Hollow.rvt_2014-Oct-28_10-54-25AM-000_From_Kitchen_-_2.png)
+
 
 ============
 ####In-the-Open
